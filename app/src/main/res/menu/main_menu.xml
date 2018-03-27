@@ -3,11 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:title="@string/profile_name"
         android:id="@+id/profileID"
         android:icon="@drawable/ic_person_white_24dp"
         android:orderInCategory="100"
-        app:showAsAction="ifRoom"/>
+        android:title="@string/profile_name"
+        app:showAsAction="ifRoom" />
 
 
 </menu>

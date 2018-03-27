@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstPracticalQuiz</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="about">Write about yourself</string>
+    <string name="profile_name">Profile</string>
+    <string name="next">Next</string>
+    <string name="preference_key">mySharedPreference</string>
+    <string name="userNameKey">usernamekey</string>
+    <string name="emailKey">EmailKey</string>
+    <string name="aboutKey">aboutkey</string>
+</resources>

@@ -9,5 +9,4 @@
         android:title="@string/profile_name"
         app:showAsAction="ifRoom" />
 
-
 </menu>
